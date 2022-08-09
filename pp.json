@@ -4,26 +4,28 @@
         {
             "year": 2008,
             "value": 200,
-            "pp":4444,
-            "uu": "krnrk"
+            "deaths":4444,
+            "author": "manasi"
+            
         },
         {
             "year": 20112,
             "value": 1000,
-              "pp":4444,
-            "uu": "krnrk"
+              "deaths":400,
+            "author": "pallavi"
+            
         },
         {
             "year": 2015,
             "value": 5000,
-              "pp":4444,
-            "uu": "krnrk"
-        },
+              "deaths":2214,
+            "author": "shiva"
+    },
         {
             "year": 2020,
             "value": 4000,
-              "pp":4444,
-            "uu": "krnrk"
+              "deaths":345544,
+            "author": "prayag"
         }
     ]
 }
