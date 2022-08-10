@@ -1,5 +1,5 @@
 {
-    "ppp":
+    "pp":
      [
         {
             "year": 2008,
@@ -26,20 +26,6 @@
             "value": 4000,
               "deaths":345544,
             "author": "prayag"
-        }
-    ],
-    
-    
-    "ppregg":
-      [
-        {
-            "year": 2010,
-            "value": 2030
-            
-        },
-        {
-            "year": 2020,
-            "value": 10030            
         }
     ]
 }
