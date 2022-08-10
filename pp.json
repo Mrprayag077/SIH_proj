@@ -1,31 +1,26 @@
 {
+    "yyrr":2021,
     "pp":
-     [
+   [
+
+      "pp1":
+       [
         {
             "year": 2008,
-            "value": 200,
-            "deaths":4444,
-            "author": "p,ranav"
-            
+            "value": 200            
         },
         {
             "year": 20112,
-            "value": 1000,
-              "deaths":400,
-            "author": "pallavi"
-            
+            "value": 1000            
         },
         {
             "year": 2015,
-            "value": 5000,
-              "deaths":2214,
-            "author": "akash"
-    },
+            "value": 5000
+        },
         {
             "year": 2020,
-            "value": 4000,
-              "deaths":345544,
-            "author": "prayag"
+            "value": 4000
         }
     ]
+   ]
 }
