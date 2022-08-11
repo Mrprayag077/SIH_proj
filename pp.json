@@ -5,17 +5,21 @@
         "nae":"prayag",
         "company": "xyz",   
  "pp2": [
-        {
+       {
             "year": 20008,
-            "value": "flood"          
+            "value": 2000            
         },
         {
             "year": 20112,
-            "value": "earthq"            
+            "value": 10001            
         },
         {
             "year": 20015,
             "value": 5009
+        },
+        {
+            "year": 20022,
+            "value": 4300
         }
      ],
  "pp1" :
