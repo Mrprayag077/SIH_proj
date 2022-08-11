@@ -1,15 +1,27 @@
 {
-    "regpp":
-     [
+    "yyrr":20210,
+    "slider_part": [
         {
-            "year": 2008,
-            "value": 200
-            
+        "nae":"prayag",
+        "company": "xyz",   
+ "kothurd": [
+        {
+            "cala": "flood"          
         },
         {
-            "year": 2012,
-            "value": 1000
-            
+            "cala": "earthq"          
+        }
+        
+     ],
+ "pp1" :
+       [
+        {
+            "year": 2008,
+            "value": 200            
+        },
+        {
+            "year": 20112,
+            "value": 1000            
         },
         {
             "year": 2015,
@@ -20,4 +32,9 @@
             "value": 4000
         }
     ]
+         
+}
+
+]
+
 }
