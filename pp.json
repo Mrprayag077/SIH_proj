@@ -7,19 +7,15 @@
  "pp2": [
         {
             "year": 20008,
-            "value": 2000            
+            "value": "flood"          
         },
         {
             "year": 20112,
-            "value": 10001            
+            "value": "earthq"            
         },
         {
             "year": 20015,
             "value": 5009
-        },
-        {
-            "year": 20022,
-            "value": 4300
         }
      ],
  "pp1" :
