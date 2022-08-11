@@ -6,12 +6,12 @@
         "company": "xyz",   
  "pp22": [
         {
-            "year": 20008,
+            "value": 20008,
             "value": "flood"            
         },
         {
-            "year": 20112,
-            "value": "earthq"           
+            "value": 20112,
+            "year": "earthq"           
         }
      ],
  "pp11" :
