@@ -57,24 +57,32 @@
             "year": 2008,
             "value": 2000,
             "deaths":20000,
+            "Flood": "Y",
+            "Earthq" "N",
             "author": "prayag"
         },
         {
             "year": 20112,
             "value": 1000,
             "deaths":400,
+            "Flood": "N",
+            "Earthq" "Y",
             "author": "shiva"
         },
         {
             "year": 2015,
             "value": 5000,
             "deaths":9004,
+            "Flood": "Y",
+            "Earthq" "Y",
             "author": "pfbdbv"
         },
         {
             "year": 2020,
             "value": 4000,
             "deaths":9009,
+            "Flood": "N",
+            "Earthq" "N",
             "author": "cxnjxx"
         }
     ]
